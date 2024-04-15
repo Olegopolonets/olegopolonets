@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">🛠 Skills:</h3>
+<h3 align="left">🛠   Skills:</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🔥   My statistics :</h3>
+<h3 align="left">🔥   My statistics:</h3>
 
 ###
 
