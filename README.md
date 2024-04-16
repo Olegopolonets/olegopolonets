@@ -2,9 +2,9 @@
 
 #### I create not only websites, but also positive emotions.
 
- 🌍 I'm based in Kyiv, Ukraine.
- 🖥️ See my portfolio at [CV](https://drive.google.com/file/d/18C4uZ_0fS-cwbOGShX61Q4erE2vTDglh/view)
- ✉️ You can contact me at [opolonetso@gmail.com](mailto:opolonetso@gmail.com)
+* 🌍 I'm based in Kyiv, Ukraine.
+* 🖥️ See my portfolio at [CV](https://drive.google.com/file/d/18C4uZ_0fS-cwbOGShX61Q4erE2vTDglh/view)
+* ✉️ You can contact me at [opolonetso@gmail.com](mailto:opolonetso@gmail.com)
 
 ###
 
