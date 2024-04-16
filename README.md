@@ -19,8 +19,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Skills" align="left" width="35" height="55"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Skills" align="left" width="35" height="55"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Skills" align="left" width="35" height="55"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Skills" align="left" width="35" height="55"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Skills" align="left" width="35" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Skills" align="left" width="35" height="55"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Skills" align="left" width="35" height="55"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Skills" align="left" width="35" height="55"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="35" height="55"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="35" height="55"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="35" height="55"/>
 </div>
 
 ###
